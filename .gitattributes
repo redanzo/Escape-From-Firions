@@ -1,1 +1,3 @@
-static/* linguist-vendored
+* linguist-vendored
+*.xml linguist-vendored=false
+*.asp.net linguist-vendored=false
