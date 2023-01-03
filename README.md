@@ -8,6 +8,10 @@ Collect as many coins and quickly escape the planet, Firion!!!
 2. Extract the file
 3. Launch the 'Escape_From_Firions.exe' to start playing
 
+Controls:
+- 'WASD' to move
+- 'Spacebar' to jump
+- Jump on enemies to do damage
 
 Copyright © Rishikeshan Bharathi
 
