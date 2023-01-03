@@ -1,3 +1,2 @@
 * linguist-vendored
 *.xml linguist-vendored=true
-*asp.net linguist-vendored=true
