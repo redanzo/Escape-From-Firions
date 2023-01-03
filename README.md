@@ -10,6 +10,7 @@ Collect as many coins and quickly escape the planet, Firion!!!
 
 Controls:
 - 'WASD' to move
+- Mouse to look around
 - 'Spacebar' to jump
 - Jump on enemies to do damage
 
